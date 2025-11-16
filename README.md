@@ -67,13 +67,6 @@ The objective is to automate the full analytics process — from fetching stock 
 
 ---
 
-## 👨‍💻 Contributors
-
-- **Sai Kiran Reddy Pothuganti**  
-- **Vivek Varma Rudraraju**
-
----
-
 ## 📚 Resources & References
 
 - [Airflow Docs](https://airflow.apache.org/docs/)
